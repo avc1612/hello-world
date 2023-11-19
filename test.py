@@ -1,4 +1,5 @@
 print("hello world")
 
 def testfn():
-    print("hello from testfn..")
+    a=2
+    print("hello from testfn..", a)
