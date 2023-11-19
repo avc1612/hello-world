@@ -5,3 +5,6 @@ def testfn():
     b=a+1
     c=a-1
     print("hello from testfn..", a)
+
+def testfn2():
+    print("")
